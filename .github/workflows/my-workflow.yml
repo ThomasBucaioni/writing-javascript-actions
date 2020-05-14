@@ -12,4 +12,8 @@
 #    - name: hello-action
 #      uses: ./.github/actions/hello-world
 #      with:
+<<<<<<< HEAD
 #          third-greeting: "Learning Lab User"
+=======
+#          third-greeting: "Learning Lab User"
+>>>>>>> 0788278578e2803453a2361586a98ce75ae58b17
